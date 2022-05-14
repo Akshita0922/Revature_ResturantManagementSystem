@@ -4,7 +4,7 @@ The Restaurant Management System has four modules namely Customer, Admin, Kitche
 
 
 # Technologies
--------------------------------------------------------------------------------------------------------------------------------
+
 > HTML,CSS
 > Bootstrap4
 > Java
@@ -14,7 +14,7 @@ The Restaurant Management System has four modules namely Customer, Admin, Kitche
 > Log4j
 
 # Features
--------------------------------------------------------------------------------------------------------------------------------
+
 > Admin can add, edit, delete Items, Chefs, Supervisors.
 > Customer can customize his/her order and place the order.
 > Placed orders are displayed in Chef dashboard
@@ -24,7 +24,7 @@ To-Do list:
 > Should use JWT for User Authentication
 
 # Getting Started
--------------------------------------------------------------------------------------------------------------------------------
+
 > Push Project to Github
 > Initialize the local directory as a Git repository.
 > git init
@@ -45,7 +45,7 @@ To-Do list:
 > git clone https://github.com/YOUR-USERNAME/Restaurant-Management
   
 # Usage
--------------------------------------------------------------------------------------------------------------------------------
+
 > open website and login based on role
 > Customer can login and add items to cart, customize the items added to cart, choose a payment mode, place the order.
 > Admin can login to his account, can (Add, Edit, Delete) Items, Chefs, Supervisors.
