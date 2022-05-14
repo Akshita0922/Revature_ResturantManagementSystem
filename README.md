@@ -3,7 +3,7 @@
 The Restaurant Management System has four modules namely Customer, Admin, Kitchen Master, Supervisor. Customers can order the dishes, customize the dishes before placing an order. The customer should choose a payment mode before placing the order, A bill is generated after payment. The kitchen Master will receive all the orders placed by the customer and acknowledge them after a dish is served. A supervisor will resolve the tickets raised by the customer. Admin can add dishes, customize the dishes, add/remove Kitchen master, add/remove supervisor.
 
 
-#Technologies
+# Technologies
 -------------------------------------------------------------------------------------------------------------------------------
 > HTML,CSS
 > Bootstrap4
@@ -13,7 +13,7 @@ The Restaurant Management System has four modules namely Customer, Admin, Kitche
 > Servlet
 > Log4j
 
-#Features
+# Features
 -------------------------------------------------------------------------------------------------------------------------------
 > Admin can add, edit, delete Items, Chefs, Supervisors.
 > Customer can customize his/her order and place the order.
@@ -23,7 +23,7 @@ The Restaurant Management System has four modules namely Customer, Admin, Kitche
 To-Do list:
 > Should use JWT for User Authentication
 
-#Getting Started
+# Getting Started
 -------------------------------------------------------------------------------------------------------------------------------
 > Push Project to Github
 > Initialize the local directory as a Git repository.
@@ -44,7 +44,7 @@ To-Do list:
 > use git clone to clone your repository to local machine
 > git clone https://github.com/YOUR-USERNAME/Restaurant-Management
   
-#Usage
+# Usage
 -------------------------------------------------------------------------------------------------------------------------------
 > open website and login based on role
 > Customer can login and add items to cart, customize the items added to cart, choose a payment mode, place the order.
