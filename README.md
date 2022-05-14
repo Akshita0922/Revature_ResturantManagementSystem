@@ -2,7 +2,7 @@
 The Restaurant Management System has four modules namely Customer, Admin, Kitchen Master, Supervisor. Customers can order the dishes, customize the dishes before placing an order. The customer should choose a payment mode before placing the order, A bill is generated after payment. The kitchen Master will receive all the orders placed by the customer and acknowledge them after a dish is served. A supervisor will resolve the tickets raised by the customer. Admin can add dishes, customize the dishes, add/remove Kitchen master, add/remove supervisor.
 
 
-#Technologies:
+#Technologies
 > HTML,CSS
 > Bootstrap4
 > Java
@@ -11,7 +11,7 @@ The Restaurant Management System has four modules namely Customer, Admin, Kitche
 > Servlet
 > Log4j
 
-#Features:
+#Features
 > Admin can add, edit, delete Items, Chefs, Supervisors.
 > Customer can customize his/her order and place the order.
 > Placed orders are displayed in Chef dashboard
@@ -30,6 +30,24 @@ To-Do list:
 > Add the files in your new local repository. This stages them for the first commit.
 > git add .
 > Commit the files that you've staged in your local repository.
+
+
+Getting Started
+(include git clone command) (include all environment setup steps)
+
+Be sure to include BOTH Windows and Unix command
+Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
+
+All the code required to get started
+Images of what it should look like
+Usage
+Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
+
+Contributors
+Here list the people who have contributed to this project. (ignore this section, if its a solo project)
+
+License
+This project uses the following license: <license_name>.
 > git commit -m "First commit"
 > In the Command prompt, add the URL for the remote repository where your local repository will be pushed.
 > git remote add origin <REMOTE_URL>
